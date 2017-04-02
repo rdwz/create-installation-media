@@ -15,6 +15,6 @@
 
 ## OSMC
   * Go to https://osmc.tv/download/
-    * Click button ``Disc images´´
-  * Download latest release for your device ``OSMC_TGT_XXXX_YYYYMMDD.img.gz´´
+    * Click button ``Disc images``
+  * Download latest release for your device ``OSMC_TGT_XXXX_YYYYMMDD.img.gz``
   
